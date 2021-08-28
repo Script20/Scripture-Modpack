@@ -1,4 +1,4 @@
-# [![SCRIPTURE](https://i.imgur.com/VMHWRuZ.png)](https://discord.gg/D2YJFBm)
+# [![SCRIPTURE](https://i.imgur.com/NkSgKDy.png)](https://discord.gg/D2YJFBm)
 
 
 Scripture
