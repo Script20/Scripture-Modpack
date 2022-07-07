@@ -1,0 +1,596 @@
+{
+  "entries": [
+    {
+      "item": "mekanism:basic_universal_cable",
+      "emc": 568
+    },
+    {
+      "item": "mekanism:advanced_universal_cable",
+      "emc": 833
+    },
+    {
+      "item": "mekanism:elite_universal_cable",
+      "emc": 1500
+    },
+    {
+      "item": "mekanism:ultimate_universal_cable",
+      "emc": 3000
+    },
+    {
+      "item": "mekanism:basic_mechanical_pipe",
+      "emc": 1280
+    },
+    {
+      "item": "mekanism:advanced_mechanical_pipe",
+      "emc": 1544
+    },
+    {
+      "item": "mekanism:elite_mechanical_pipe",
+      "emc": 3848
+    },
+    {
+      "item": "mekanism:ultimate_mechanical_pipe",
+      "emc": 6632
+    },
+    {
+      "item": "mekanism:basic_pressurized_tube",
+      "emc": 1280
+    },
+    {
+      "item": "mekanism:advanced_pressurized_tube",
+      "emc": 1544
+    },
+    {
+      "item": "mekanism:elite_pressurized_tube",
+      "emc": 3848
+    },
+    {
+      "item": "mekanism:ultimate_pressurized_tube",
+      "emc": 6632
+    },
+    {
+      "item": "mekanism:basic_logistical_transporter",
+      "emc": 1032
+    },
+    {
+      "item": "mekanism:advanced_logistical_transporter",
+      "emc": 1296
+    },
+    {
+      "item": "mekanism:elite_logistical_transporter",
+      "emc": 3600
+    },
+    {
+      "item": "mekanism:ultimate_logistical_transporter",
+      "emc": 6384
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 65536
+    },
+    {
+      "item": "mekanism:pellet_antimatter",
+      "emc": 32768000
+    },
+    {
+      "item": "botania:livingrock",
+      "emc": 64
+    },
+    {
+      "item": "botania:livingwood",
+      "emc": 128
+    },
+    {
+      "item": "botania:manasteel_ingot",
+      "emc": 512
+    },
+    {
+      "item": "botania:mana_pearl",
+      "emc": 1536
+    },
+    {
+      "item": "botania:mana_diamond",
+      "emc": 8704
+    },
+    {
+      "item": "botania:mana_powder",
+      "emc": 576
+    },
+    {
+      "item": "botania:elementium_ingot",
+      "emc": 1536
+    },
+    {
+      "item": "botania:pixie_dust",
+      "emc": 2048
+    },
+    {
+      "item": "botania:dragonstone",
+      "emc": 9216
+    },
+    {
+      "item": "botania:terrasteel_ingot",
+      "emc": 11776
+    },
+    {
+      "item": "botania:life_essence",
+      "emc": 4096
+    },
+    {
+      "item": "botania:dreamwood",
+      "emc": 640
+    },
+    {
+      "item": "botania:rune_water",
+      "emc": 1716
+    },
+    {
+      "item": "botania:rune_fire",
+      "emc": 1817
+    },
+    {
+      "item": "botania:rune_earth",
+      "emc": 2818
+    },
+    {
+      "item": "botania:rune_air",
+      "emc": 1692
+    },
+    {
+      "item": "botania:rune_spring",
+      "emc": 4165
+    },
+    {
+      "item": "botania:rune_summer",
+      "emc": 5072
+    },
+    {
+      "item": "botania:rune_autumn",
+      "emc": 4152
+    },
+    {
+      "item": "botania:rune_winter",
+      "emc": 5284
+    },
+    {
+      "item": "botania:rune_mana",
+      "emc": 4608
+    },
+    {
+      "item": "botania:rune_lust",
+      "emc": 24684
+    },
+    {
+      "item": "botania:rune_gluttony",
+      "emc": 25021
+    },
+    {
+      "item": "botania:rune_greed",
+      "emc": 23801
+    },
+    {
+      "item": "botania:rune_sloth",
+      "emc": 23764
+    },
+    {
+      "item": "botania:rune_wrath",
+      "emc": 26022
+    },
+    {
+      "item": "botania:rune_envy",
+      "emc": 24920
+    },
+    {
+      "item": "botania:rune_pride",
+      "emc": 24809
+    },
+    {
+      "item": "cyclic:gem_amber",
+      "emc": 640
+    },
+    {
+      "item": "cyclic:gem_obsidian",
+      "emc": 848
+    },
+    {
+      "item": "cyclic:experience_food",
+      "emc": 557
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 128
+    },
+    {
+      "item": "thermal:sawdust",
+      "emc": 4
+    },
+    {
+      "item": "thermal:coal_coke",
+      "emc": 64
+    },
+    {
+      "item": "thermal:tar",
+      "emc": 64
+    },
+    {
+      "item": "thermal:bitumen",
+      "emc": 64
+    },
+    {
+      "item": "thermal:rosin",
+      "emc": 64
+    },
+    {
+      "item": "thermal:slag",
+      "emc": 128
+    },
+    {
+      "item": "thermal:rich_slag",
+      "emc": 256
+    },
+    {
+      "item": "thermal:basalz_rod",
+      "emc": 512
+    },
+    {
+      "item": "thermal:basalz_powder",
+      "emc": 170
+    },
+    {
+      "item": "thermal:blitz_rod",
+      "emc": 512
+    },
+    {
+      "item": "thermal:blitz_powder",
+      "emc": 170
+    },
+    {
+      "item": "thermal:blizz_rod",
+      "emc": 512
+    },
+    {
+      "item": "thermal:blizz_powder",
+      "emc": 170
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 256
+    },
+    {
+      "item": "thermal:apatite_dust",
+      "emc": 256
+    },
+    {
+      "item": "thermal:cinnabar",
+      "emc": 256
+    },
+    {
+      "item": "thermal:cinnabar_dust",
+      "emc": 256
+    },
+    {
+      "item": "thermal:niter",
+      "emc": 256
+    },
+    {
+      "item": "thermal:niter_dust",
+      "emc": 256
+    },
+    {
+      "item": "thermal:sulfur",
+      "emc": 256
+    },
+    {
+      "item": "thermal:sulfur_dust",
+      "emc": 256
+    },
+    {
+      "item": "psi:psidust",
+      "emc": 128
+    },
+    {
+      "item": "psi:psigem",
+      "emc": 16384
+    },
+    {
+      "item": "psi:psimetal",
+      "emc": 4096
+    },
+    {
+      "item": "psi:ebony_substance",
+      "emc": 256
+    },
+    {
+      "item": "psi:ivory_substance",
+      "emc": 512
+    },
+    {
+      "item": "draconicevolution:draconium_dust",
+      "emc": 8192
+    },
+    {
+      "item": "draconicevolution:draconium_ingot",
+      "emc": 8192
+    },
+    {
+      "item": "draconicevolution:dragon_heart",
+      "emc": 16384
+    },
+    {
+      "item": "draconicevolution:awakened_draconium_block",
+      "emc": 385024
+    },
+    {
+      "item": "draconicevolution:awakened_core",
+      "emc": 1784932
+    },
+    {
+      "item": "draconicevolution:chaos_shard",
+      "emc": 557056
+    },
+    {
+      "item": "draconicevolution:chaotic_core",
+      "emc": 7558372
+    },
+    {
+      "item": "draconicevolution:wyvern_crafting_injector",
+      "emc": 573440
+    },
+    {
+      "item": "draconicevolution:awakened_crafting_injector",
+      "emc": 1728512
+    },
+    {
+      "item": "draconicevolution:chaotic_crafting_injector",
+      "emc": 2270960
+    },
+    {
+      "item": "draconicevolution:advanced_dislocator",
+      "emc": 443325
+    },
+    {
+      "item": "draconicevolution:draconic_relay_crystal",
+      "emc": 864064
+    },
+    {
+      "item": "draconicevolution:wyvern_capacitor",
+      "emc": 738304
+    },
+    {
+      "item": "draconicevolution:draconic_capacitor",
+      "emc": 5324276
+    },
+    {
+      "item": "draconicevolution:chaotic_capacitor",
+      "emc": 29010792
+    },
+    {
+      "item": "draconicevolution:wyvern_shovel",
+      "emc": 216281
+    },
+    {
+      "item": "draconicevolution:draconic_shovel",
+      "emc": 1747911
+    },
+    {
+      "item": "draconicevolution:chaotic_shovel",
+      "emc": 14881957
+    },
+    {
+      "item": "draconicevolution:wyvern_hoe",
+      "emc": 224658
+    },
+    {
+      "item": "draconicevolution:draconic_hoe",
+      "emc": 1756088
+    },
+    {
+      "item": "draconicevolution:chaotic_hoe",
+      "emc": 14890134
+    },
+    {
+      "item": "draconicevolution:wyvern_pickaxe",
+      "emc": 233092
+    },
+    {
+      "item": "draconicevolution:draconic_pickaxe",
+      "emc": 1765522
+    },
+    {
+      "item": "draconicevolution:chaotic_pickaxe",
+      "emc": 14896568
+    },
+    {
+      "item": "draconicevolution:wyvern_axe",
+      "emc": 232855
+    },
+    {
+      "item": "draconicevolution:draconic_axe",
+      "emc": 1767285
+    },
+    {
+      "item": "draconicevolution:chaotic_axe",
+      "emc": 14721331
+    },
+    {
+      "item": "draconicevolution:wyvern_bow",
+      "emc": 208304
+    },
+    {
+      "item": "draconicevolution:draconic_bow",
+      "emc": 1782511
+    },
+    {
+      "item": "draconicevolution:chaotic_bow",
+      "emc": 14916557
+    },
+    {
+      "item": "draconicevolution:wyvern_sword",
+      "emc": 225194
+    },
+    {
+      "item": "draconicevolution:draconic_sword",
+      "emc": 1756624
+    },
+    {
+      "item": "draconicevolution:chaotic_sword",
+      "emc": 14890670
+    },
+    {
+      "item": "draconicevolution:draconic_staff",
+      "emc": 8188295
+    },
+    {
+      "item": "draconicevolution:chaotic_staff",
+      "emc": 35411087
+    },
+    {
+      "item": "draconicevolution:wyvern_chestpiece",
+      "emc": 273916
+    },
+    {
+      "item": "draconicevolution:draconic_chestpiece",
+      "emc": 1805346
+    },
+    {
+      "item": "draconicevolution:chaotic_chestpiece",
+      "emc": 14939392
+    },
+    {
+      "item": "minecraft:firework_rocket",
+      "emc": 194
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "emc": 8192
+    },
+    {
+      "item": "minecraft:elytra{Damage:0}",
+      "emc": 16384
+    },
+    {
+      "item": "draconicevolution:wyvern_flight_module",
+      "emc": 161127
+    },
+    {
+      "item": "envirocore:erodium_crystal",
+      "emc": 5376
+    },
+    {
+      "item": "envirocore:kyronite_crystal",
+      "emc": 10753
+    },
+    {
+      "item": "envirocore:pladium_crystal",
+      "emc": 24504
+    },
+    {
+      "item": "envirocore:ionite_crystal",
+      "emc": 43008
+    },
+    {
+      "item": "envirocore:aethium_crystal",
+      "emc": 86016
+    },
+    {
+      "item": "envirocore:nanorite_crystal",
+      "emc": 172032
+    },
+    {
+      "item": "envirocore:xerothium_crystal",
+      "emc": 344064
+    },
+    {
+      "item": "envirocore:mica",
+      "emc": 1344
+    },
+    {
+      "item": "envirocore:redstone_imbued_obsidian_plate",
+      "emc": 288
+    },
+    {
+      "item": "envirocore:litherite_interconnect",
+      "emc": 2976
+    },
+    {
+      "item": "envirocore:erodium_interconnect",
+      "emc": 11040
+    },
+    {
+      "item": "envirocore:kyronite_interconnect",
+      "emc": 43300
+    },
+    {
+      "item": "envirocore:pladium_interconnect",
+      "emc": 98304
+    },
+    {
+      "item": "envirocore:ionite_interconnect",
+      "emc": 172320
+    },
+    {
+      "item": "envirocore:aethium_interconnect",
+      "emc": 344352
+    },
+    {
+      "item": "envirocore:nanorite_interconnect",
+      "emc": 388146
+    },
+    {
+      "item": "envirocore:xerothium_interconnect",
+      "emc": 1376544
+    },
+    {
+      "item": "envirocore:lonsdaleite_crystal",
+      "emc": 16129
+    },
+    {
+      "item": "envirocore:fe_output",
+      "emc": 5356
+    },
+    {
+      "item": "envirocore:fe_input",
+      "emc": 5356
+    },
+    {
+      "item": "envirocore:amplification_modifier",
+      "emc": 167524
+    },
+    {
+      "item": "envirocore:bandwidth_modifier",
+      "emc": 205414
+    },
+    {
+      "item": "envirocore:frequency_modifier",
+      "emc": 21670
+    },
+    {
+      "item": "envirocore:radiant_modifier",
+      "emc": 24102
+    },
+    {
+      "item": "envirocore:piezo_modifier",
+      "emc": 22566
+    },
+    {
+      "item": "envirocore:electrostatic_modifier",
+      "emc": 189958
+    },
+    {
+      "item": "envirocore:dimensional_modifier",
+      "emc": 1376345
+    },
+    {
+      "item": "envirocore:interdimensional_modifier",
+      "emc": 11772457
+    },
+    {
+      "item": "industrialforegoing:plastic",
+      "emc": 1024
+    }
+  ]
+}
